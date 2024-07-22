@@ -21,6 +21,8 @@ Dashboard 2: https://public.tableau.com/views/Amazonsalesanalysis_17214678360450
 
 Dashboard 3: https://public.tableau.com/views/Amazonsalesanalysis_17214678360450/Dashboard3?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+# Insights & Recommendations:
+Present in ppt.
 
 # Technology �
 Data Science
