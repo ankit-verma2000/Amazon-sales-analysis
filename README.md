@@ -14,6 +14,13 @@ find Sales-trend -> month-wise, year-wise, yearly_month-wise
 # Dataset link: 
 https://drive.google.com/file/d/10sofXyF6NjwN6ngLyFfiPI-CUDpeqaN_/view
 
+# Tableau Link:
+Dashboard 1: https://public.tableau.com/views/Amazonsalesanalysis_17214678360450/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Dashboard 2: https://public.tableau.com/views/Amazonsalesanalysis_17214678360450/Dashboard2?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Dashboard 3: https://public.tableau.com/views/Amazonsalesanalysis_17214678360450/Dashboard3?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 # Technology �
 Data Science
